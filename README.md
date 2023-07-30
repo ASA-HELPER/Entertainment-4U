@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+<img width="960" alt="Img-1" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/7a6c2d1e-299c-4cf6-8901-049048d0c002">
+# Entertainment-4U
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ENTERTAINMENT-4U is advanced movies and TV shows project developed using React and Redux Toolkit with the help of TMDB API, designed to be the go-to platform for movie enthusiasts seeking the latest and trending films. With a user-friendly interface and powerful search functionalities, it offers a seamless experience for discovering and exploring an extensive library of movies.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Tech Stack
 
-### `npm start`
+**Client:** HTML, CSS, React, Redux, Bootstrap, Sass
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**API:** TMDB
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Run Locally
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone the project
 
-### `npm run build`
+```bash
+  git clone https://github.com/ASA-HELPER/Entertainment-4U.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Go to the project directory
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  For example: cd project-name
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install dependencies
 
-### `npm run eject`
+```bash
+  npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start the server
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  npm run start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshots
+### Home Page
+<img width="960" alt="Img-1" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/e587d215-ef09-4685-9272-5d85131e9845">
 
-## Learn More
+### Trending and Popular movies and tv shows
+<img width="460" alt="Img-2" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/9b48b5b0-2836-47e3-bbaa-9eaeec7c91bf">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Top-rated movies and tv shows
+<img width="469" alt="Img-3" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/07a7f3cb-c99c-4954-ac88-b56390c17db0">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Explore Movies section
+<img width="456" alt="Img-4" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/f41e0598-be21-4406-ae48-eacc73908333">
 
-### Code Splitting
+### Select Genres
+![Img-5](https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/671526b3-439e-4b8c-94a1-4448fd9241cb)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Sorting Feature
+![Img-6](https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/9183ceec-77eb-467e-b54d-2bcb4617d2d4)
 
-### Analyzing the Bundle Size
+### Explore tv shows
+<img width="461" alt="Img-7" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/b6795b39-5318-4fc2-b85b-2635d6bb3243">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Details page
+<img width="570" alt="Img-8" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/9bd4d60f-4f2a-4c9e-8ed4-65f13be002ad">
 
-### Making a Progressive Web App
+### Official videos, Similar movies, and recommendations of a particular movie
+<img width="318" alt="Img-9" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/81842bca-536d-4642-9fb0-a52ae83e6f0c">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+Contributions are always welcome!
+Found some issue with the website? Please open an issue or a pull request!
