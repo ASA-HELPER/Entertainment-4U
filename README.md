@@ -1,4 +1,3 @@
-<img width="960" alt="Img-1" src="https://github.com/ASA-HELPER/Entertainment-4U/assets/96967202/7a6c2d1e-299c-4cf6-8901-049048d0c002">
 # Entertainment-4U
 
 ENTERTAINMENT-4U is advanced movies and TV shows project developed using React and Redux Toolkit with the help of TMDB API, designed to be the go-to platform for movie enthusiasts seeking the latest and trending films. With a user-friendly interface and powerful search functionalities, it offers a seamless experience for discovering and exploring an extensive library of movies.
